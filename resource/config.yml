@@ -1,0 +1,4 @@
+---
+//set false to disable always day
+alwaysday: true
+...
