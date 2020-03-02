@@ -1,0 +1,6 @@
+name: AlwaysDay
+author: MasApip
+main: AlwaysDay\Main
+version: 1.0.0
+description: This plugin allows you to keep all the world in a state of day!
+api: 3.0.0
